@@ -6,4 +6,5 @@ public class Test2 {
     private static String D = "d";
     private static String S = "s";
     private static String F = "f";
+    private static String F1 = "f1";
 }

@@ -6,6 +6,9 @@ public class Test {
     private static String D = "d";
     private static String S = "s";
     private static String F = "f";
+    private static String F2 = "f";
+    private static String F3 = "f";
+    private static String F4 = "f";
     // dddd
     // test
     // aaa
